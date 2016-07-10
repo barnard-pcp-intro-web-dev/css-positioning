@@ -1,0 +1,16 @@
+* {
+  font-family: Arial, Verdana, sans-serif;
+  color: #665544;
+}
+.body{
+  width: 900px;
+  margin: 0 auto;
+}
+header, footer{
+  background-color: #efefef;
+}
+
+figure img{
+  width: 150px;
+  height: 100px;
+}
